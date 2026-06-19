@@ -9,17 +9,17 @@ IT student from Batangas, PH — building things with web tech and AI tools.
 
 ---
 
-### 🚀 What I've Built
-- **Odysseus** — Local AI workspace + Discord bot (Node.js)
+###  What I've Built
+- **Odysseus** — Self-hosted AI workspace using Ollama + custom Node.js Discord bot integration
 
 ---
 
-### 💼 Open To
+###  Open To
 - Virtual / Executive Assistant roles
 - Freelance web design
 - Remote entry-level tech work
 
 ---
 
-### 📬 Reach Me
+###  Reach Me
 📧 amirazucena@gmail.com
