@@ -1,6 +1,6 @@
 # Hi, I'm Amir 👋
 
-IT student from Batangas, PH — building things with web tech and AI tools.
+IT student from Batangas State University — building things with web tech and AI tools.
 
 ---
 
