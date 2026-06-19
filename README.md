@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Amir 👋
 
-<!--
-**amirazucena-ph/amirazucena-ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student from Batangas, PH — building things with web tech and AI tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Work With
+`HTML` `CSS` `JavaScript` `Node.js` `Ollama` `DaVinci Resolve` `Google Workspace`
+
+---
+
+### 🚀 What I've Built
+- **Odysseus** — Local AI workspace + Discord bot (Node.js)
+
+---
+
+### 💼 Open To
+- Virtual / Executive Assistant roles
+- Freelance web design
+- Remote entry-level tech work
+
+---
+
+### 📬 Reach Me
+📧 amirazucena@gmail.com
